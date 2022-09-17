@@ -1,6 +1,6 @@
 # Assignment-1
 
-## Github Page: 
+## Github Page: https://tiennguyen93.github.io/assignment-1/
 
 ## Goal
 * A basic website to demonstrate familiarity with GitHub, understanding of git commands and feature branch workflow, as well as ability to work with HTML, CSS, and JavaScript
