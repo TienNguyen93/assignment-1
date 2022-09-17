@@ -1,5 +1,7 @@
 # Assignment-1
 
+## Creator: Tien Nguyen
+
 ## Github Page: https://tiennguyen93.github.io/assignment-1/
 
 ## Goal
